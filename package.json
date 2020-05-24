@@ -38,11 +38,5 @@
   "oclif": {
     "bin": "localpen"
   },
-  "repository": "next-kuscamara/localpen",
-  "scripts": {
-    "posttest": "eslint .",
-    "prepack": "oclif-dev readme",
-    "test": "echo NO TESTS",
-    "version": "oclif-dev readme && git add README.md"
-  }
+  "repository": "next-kuscamara/localpen"
 }
